@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: 3a5cea63868df134f92416ba46958a68
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 155_roof_surface
+    second: {fileID: 2100000, guid: 21968aedab7c82742816ba95add56534, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 55_buzz
+    second: {fileID: 2100000, guid: c4e9fda1caee4d040a5c6b1d46710754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 55_buzz1
+    second: {fileID: 2100000, guid: dac72d1375dc601448cf013324a7f13a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 55_erker
+    second: {fileID: 2100000, guid: 80e6e1685076f7046bab8af068bda062, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 55_erker_balkon
+    second: {fileID: 2100000, guid: 0245ca12f8ef5224cac2e684826652ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 55_first_floor
+    second: {fileID: 2100000, guid: cf194cffc411aa9439918199c9f641c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 55_window
+    second: {fileID: 2100000, guid: 0bf52d80bb6f03143a66c79a3bae1ec2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 49049db1e96591f418ccdee8e44ab036, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0135_DarkGray]'
+    second: {fileID: 2100000, guid: 4f792d0c6a00e234e85e0e9cfd184866, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Color_001]'
+    second: {fileID: 2100000, guid: 25c9a3d9c4b4ecf47a5c33ff52286e85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ostrov-5-1-roof-bkg
+    second: {fileID: 2100000, guid: 95ffdbb309ea2904d9904b1bf618a710, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ostrov-5-1-roof-budka-door
+    second: {fileID: 2100000, guid: 605f657c980a61a4a9766df27afc2c13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ostrov-5-1-roof-budka-tube
+    second: {fileID: 2100000, guid: e32be6f45cfd61d45bb1d30d59a3d40e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ostrov-5-1-roof-fasets
+    second: {fileID: 2100000, guid: 5ea30de0e442bd14b8056976a74179e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ostrov-5-1-roof-windows
+    second: {fileID: 2100000, guid: 7747f1d27f8f11b4f92ba3c19e8d374a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ostrov-9k2
+    second: {fileID: 2100000, guid: 16c0d06218a2544438ecabb7d5a1e67d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p44-ondulin
+    second: {fileID: 2100000, guid: 8c374d38cb2e1dd4b8e0d8d803c61832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p44-pediment
+    second: {fileID: 2100000, guid: f658eb13fe801004f9920d6462b0fad8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p44-roof-cornice
+    second: {fileID: 2100000, guid: a71d0e8b60014aa4b81acdf23dfbc74c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p44-roof-with-border1
+    second: {fileID: 2100000, guid: 53f012824d9948045a936a6f8fc80b37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p44t-curve-balcony
+    second: {fileID: 2100000, guid: f6943f7944e5c434194289c5b647de14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p44t-wall-buzz
+    second: {fileID: 2100000, guid: 25205979c10586244be1f58228591114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p44t-wall-buzz-bottom
+    second: {fileID: 2100000, guid: 8bc7ff09223d76e4ba5ac40064494c5b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: p4_roof_door
+    second: {fileID: 2100000, guid: 2a108568bc1d7c64ea85f11bd09ee2ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof
+    second: {fileID: 2100000, guid: 4884dd44b5bf07141b53ed22fad42818, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_border
+    second: {fileID: 2100000, guid: b1dcc8b0a4c5da44ea23aa2cedcb960f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: roof_fence
+    second: {fileID: 2100000, guid: 904d8bade3269e742981afd132341ea8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_wall
+    second: {fileID: 2100000, guid: 7a7895ebf82d62241a3520b7477e5e84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white_wall_shaddow
+    second: {fileID: 2100000, guid: 576a8eb460e243e429de53f20e4b2bff, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 155_roof_surface
+    second: {fileID: 2800000, guid: 2cb9de96d5f50754f813dff483c9dbf1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 55_buzz
+    second: {fileID: 2800000, guid: 55bbcbafb990cac4388d4fb6875d11e5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 55_erker
+    second: {fileID: 2800000, guid: 5edbb4f289144a74d8656b88d67c86da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 55_erker_balkon
+    second: {fileID: 2800000, guid: 9b472388e2f958f418703ec22473013f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 55_first_floor
+    second: {fileID: 2800000, guid: 8a9ed57c435c4c44a98cd5a1be9418e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: 55_window
+    second: {fileID: 2800000, guid: c7757a510caddf04bb510fc845aadb87, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: budk_1_top
+    second: {fileID: 2800000, guid: 7533fc22431ad4844b327f2ee45ab1ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ostrov-5-1-roof-bkg
+    second: {fileID: 2800000, guid: a284038a519d89f4499609d974eac27f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ostrov-5-1-roof-budka-door
+    second: {fileID: 2800000, guid: 2814ed9bb6d02aa4d8fb97bc0fc50522, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ostrov-5-1-roof-budka-tube
+    second: {fileID: 2800000, guid: c674adbb9260ffc469a390b226602fcf, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ostrov-5-1-roof-fasets
+    second: {fileID: 2800000, guid: 9013d7f40ab03534682560379d0359e1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ostrov-5-1-roof-windows
+    second: {fileID: 2800000, guid: 7a5502e8f87ef654f84abb45c84892e2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: ostrov-9k2
+    second: {fileID: 2800000, guid: ca6b6b08a6ac6d04e9e2e2faffa5b3b3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: p44-ondulin
+    second: {fileID: 2800000, guid: 30d2612130caba94688dbfc5c10d6523, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: p44-pediment
+    second: {fileID: 2800000, guid: 9448e060e3769a24d9e1ab83422f6f6d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: p44-roof-cornice
+    second: {fileID: 2800000, guid: 87e9477dc05fe59488f94284db1c254c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: p44-roof-with-border
+    second: {fileID: 2800000, guid: 9bdcf311ccd45ab459003027576e4c6a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: p44t-curve-balcony
+    second: {fileID: 2800000, guid: f9092c15e6c28fb47898f37710e2e983, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: p44t-wall-buzz
+    second: {fileID: 2800000, guid: a1c3dfa357fd072418dac4f146fa8074, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: p44t-wall-buzz-bottom
+    second: {fileID: 2800000, guid: cb1249f11291166459e23994024f778e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: p4_roof_door
+    second: {fileID: 2800000, guid: 11ca5a1a1cc2dcc49bfec77e506baf13, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof_border
+    second: {fileID: 2800000, guid: c7ca970b85aae644a87758a70a7028c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: roof_fence
+    second: {fileID: 2800000, guid: 850177bc55ee50e46a5cf289d32a9092, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white_wall
+    second: {fileID: 2800000, guid: c08bfbeb8663a8d45b57d619e2efce10, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: white_wall_shaddow
+    second: {fileID: 2800000, guid: f969fa8e8b5758149901981c19cb4dca, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
